@@ -1,11 +1,17 @@
 # Jobs
-# Current Position
+#ETR
+- company: Enterprise Technology Research (ETR)
+  position: Sr. Data Scientist
+  duration: May 2022 &mdash; Present
+  summary: Building data science products with survey and financial markets data.
+
+# Edelman Data Science
 - company: Edelman Data & Intelligence
   position: Data Scientist
-  duration: Jan, 2022 &mdash; Present
-  summary: Functioning as both data-engineer and data-scientist, I contribute to our product development team by building data pipelines, exploring new learning algorithms, and coordinating workflows to integrate human-dependent data collection (surveys) with automated data pipelines.
+  duration: Jan, 2022 &mdash; May 2022
+  summary: Contributed to our product development team by building data pipelines, exploring new learning algorithms, and coordinating workflows to integrate human-dependent data collection (surveys) with automated data pipelines.
 
-# Last Edelman Position (Edelman DxI)
+# Edelman DP
 - company: Edelman Data & Intelligence
   position: Manager, Data Processing
   duration: Feb, 2018 &mdash; Jan, 2022
