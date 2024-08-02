@@ -6,7 +6,7 @@
 
 # Data Science and Machine Learning
 - skill: Machine Learning and Data Science
-  description: After completing my MS, I joined a data science team and began collecting experiences on various ML projects, which over the last three years have included: a Natural Language Processing project to explore various methods of sentence-embedding and unsupervised clustering algorithms for identifying topics in text-based news media; a forecasting project using proprietary survey data to forecast quarterly revenue for 100+ publicly traded technology companies; an experimental project of my own design to apply stochastic gradient descent to train individual-level weights in a large, unbalanced panel dataset, with the goal of improving the accuracy/representativeness of survey results.
+  description: After completing my MS, I joined a data science team and began collecting experiences on various ML projects, which over the last three years have included a Natural Language Processing project to explore various methods of sentence-embedding and unsupervised clustering algorithms for identifying topics in text-based news media; a forecasting project using proprietary survey data to forecast quarterly revenue for 100+ publicly traded technology companies; an experimental project of my own design to apply stochastic gradient descent to train individual-level weights in a large, unbalanced panel dataset, with the goal of improving the accuracy/representativeness of survey results.
 
 # Presenting / Teaching
 - skill: Presentation and Teaching
