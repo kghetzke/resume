@@ -1,20 +1,21 @@
 # Skills
-# Python
-- skill: Python
-  description: Four years of professional and academic experience writing Python scripts to do data analysis, publish data in web-based dashboards, and automate tasks like filling PowerPoint decks with survey data and comparing text of survey questionnaires. I'm also familiar with the machine-learning libraries sklearn and TensorFlow.
-
-# STATA
-- skill: STATA
-  description: Nearly four years of professional experience using STATA for analysis. I'm adept at writing custom functions and .do files to routinize certain forms of analysis common in survey research, such as stated vs derived analyses, max-diff scoring, and lca segmentation analysis.
 
 # Statistics and Econometrics
 - skill: Statistics and Econometrics
-  description: Master of Science degree in Economics, paired with nearly four years of professional experience coaching teams on how to explain statistical findings to clients. I have a deep intuition for hypothesis testing, and a vast knowledge of common tools and algorithms to build models with data.
+  description: Master of Science degree in Economics, paired with over six years of professional experience coaching teams on how to explain statistical findings to clients. I have a deep intuition for hypothesis testing, and a vast knowledge of common tools and algorithms to build models with data. In my spare time, I am building an introductory Python/econometrics course which plans to walk students through the process of coding a Python class-object for running OLS regressions. The course will cover key concepts like optimizing a loss-function, hypothesis testing, explaining variance, and organizing code into functions and classes.  
+
+# Data Science and Machine Learning
+- skill: Machine Learning and Data Science
+  description: After completing my MS, I joined a data science team and began collecting experiences on various ML projects, which over the last three years have included: a Natural Language Processing project to explore various methods of sentence-embedding and unsupervised clustering algorithms for identifying topics in text-based news media; a forecasting project using proprietary survey data to forecast quarterly revenue for 100+ publicly traded technology companies; an experimental project of my own design to apply stochastic gradient descent to train individual-level weights in a large, unbalanced panel dataset, with the goal of improving the accuracy/representativeness of survey results.
+
+# Presenting / Teaching
+- skill: Presentation and Teaching
+  description: I often receive the following feedback from non-statisticians: "you explain this stuff better than anyone I've ever worked with." I love helping people learn to appreciate and understand data and statistical reasoning.
 
 # Survey Research
-- skill: Survey Methodology
-  description: Nearly six years of professional experience consulting teams on survey best-practices; deep expertise in sample framing and weighting, and questionnaire design for reducing response bias. Extremely familiar with the <i>Decipher</i> platform for hosting survey research, and comfortable debugging XML scripts used for online surveys.
+- skill: Survey Research / Market Research
+  description: Over six years of professional experience analyzing survey data and running survey projects. While my expertise is in statistical methodologies for analyzing survey data (key drivers analysis, factor and segmentation analysis, Bayesian choice models, etc.) I have extensive experience with every aspect of survey-research: from discussing research objectives with clients and business stakeholders, writing a questionnaire, programming a survey for online participants, coordinating outreach with internal and external panels, processing data, and finally analyzing results and presenting findings to clients.
 
-# Additional Software
-- skill: Additional programming and software skills
-  description: While most of my professional life has been spent using STATA, Python, Excel, and tools specific to survey research, I've been exposed to many other programming languages and business intelligence tools, including R, SAS, SQL, Tableau, PowerBI, and SPSS, as well as deployment and hosting platforms like AWS, Snowflake, and Microsoft Azure. 
+# Coding
+- skill: Python and Computer Programming
+  description: A fluent programmer in Python and STATA, I love collecting experience with other programming languages and have used all of the following languages in a professional situation: SQL for accessing data and writing ETLs; R for running statistical routines not fully developed in Python; VBA for automating tasks in Excel and PowerPoint; HTML, CSS, JavaScript and Lua for getting online surveys to function just right.
