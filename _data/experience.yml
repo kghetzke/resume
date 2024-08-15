@@ -3,8 +3,8 @@
 - company: Enterprise Technology Research (ETR)
   position: Sr. Data Scientist
   duration: May 2022 &mdash; Present
-  summary: As the most senior Data Scientist at ETR, I oversee all data-science intiatives with our proprietary data, manage our survey-operations team, and work directly with clients to design, execute, and present survey research projects. In 2023, I introduced Bayesian methods for modeling consumer choices to ETR, which led directly to >600% growth in our custom-survey business over the course of that year.
-
+  summary: As the most senior Data Scientist at ETR, I oversee all data-science intiatives with our proprietary data, manage our survey-operations team, and work directly with clients to design, execute, and present survey research projects. Specific projects/achievements include: <ul class="resume-item-list"><li>Introducing advanced methodologies to ETR like conjoint analysis, which directly lead to >600% revenue growth for our enterprise business in 2023</li><li>Deployed a revenue forecaster on our public-facing platform by writing Python code to define custom Forecaster and ForecastResults objects which allow our team to easily update models as new data comes in and read model-results objects back into memory from Snowflake tables</li><li>Developed a new, syndicated survey product from the ground up. I worked with Sales and Research to write a compelling questionnaire; worked with my own team to templatize or automate most of the work to run a monthly survey; and worked with Engineering to publish interactive reports leveraging HighCharts data visualization library.</li></ul>
+  
 # Edelman Data Science
 - company: Edelman Data & Intelligence
   position: Data Scientist
