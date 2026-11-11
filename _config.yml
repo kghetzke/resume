@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Karl G. Hetzke"
 resume_title:                   "Data Scientist"
 
@@ -18,9 +18,9 @@ resume_contact_email:           "kghetzke@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(585) 683-9014"
-resume_contact_address:         "28 Heron Way S, Fairport, NY"
+resume_contact_address:         "11 Mima Cir, Fairport, NY"
 
-resume_header_contact_info:     "28 Heron Way S, Fairport NY • (585) 683-9014 • kghetzke@gmail.com"
+resume_header_contact_info:     "11 Mima Cir, Fairport NY • (585) 683-9014 • kghetzke@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>I'm a lover of all things data - from statistical reasoning and social-sciences to experimentation, data-engineering, and modeling. While I can write a Numpy-only implementation of a stochastic gradient descent routine, my professional superpower is being able to explain how it works to a non-technical audience.</p>"
